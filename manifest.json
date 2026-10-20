@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "sanic-org",
+  "repo": "html5tagger",
+  "versions": [
+    {
+      "commit": "e3e0c044784d7409fcc823dde1bd83d531b4c288",
+      "parsed_at": "2026-10-20T23:59:05.807719+00:00",
+      "tag": "v2.0.0",
+      "filetree": "filetree/e3e0c044784d7409fcc823dde1bd83d531b4c288.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b27cd3c9386c8cc9c373d97e1b2e06d1560423cb.nq.gz",
+        "blob/2b44522778ea0029126f253331edd6a07d6c55e9.nq.gz",
+        "blob/31e4352f520fca2416d819ad501db6448737e3a7.nq.gz",
+        "blob/65ca7f3b14ebb5ffbe3fe99939e462935d2173e8.nq.gz",
+        "blob/43e508cbf7290aac80688ac3f9d690ac17caceaf.nq.gz",
+        "blob/88cc2b1ad4c6ae9418fc24b04e3661c3e95a4fd7.nq.gz",
+        "blob/e937d4e3f7ed1377d0459cf8b3afdb3404a28635.nq.gz",
+        "blob/1514a727e8afdfd25eba5b83df56203dd40a72cc.nq.gz",
+        "blob/f195f2ff406627572a5216b2468e6367bf3e2524.nq.gz",
+        "blob/4c1edd3e886ef870c70e5032bc829b3d65fd9abb.nq.gz",
+        "blob/02d0eb1b364fac99737dae593245efcc59f7d530.nq.gz",
+        "blob/abfb50ef129a7bd4f87df0b3ab22168790ce2a9e.nq.gz",
+        "blob/b3e4a057d409e10ee27504a31e540e393caef352.nq.gz",
+        "blob/b3dbff00cd9979ce8009daa72f87fabe1d8f3484.nq.gz",
+        "blob/97d053391c3f6a7d621ce6d3bb9c8189f026566e.nq.gz",
+        "blob/2437fc3b99235205e29237eae82303b798a10bd6.nq.gz",
+        "blob/c1809b578a058a9713130aa372d5956f5e51664c.nq.gz",
+        "blob/de0d3b7e4e07dee788daf9ac0cd4690171bffb95.nq.gz",
+        "blob/b3faa41a78bcd51e921a8d4dd34e0428a1b0ef7f.nq.gz",
+        "blob/632f738cd01c0f00fb9e0d0fa805ada336b89434.nq.gz",
+        "blob/2d3d236910770dd01cb91a4c9dcd42fbbf639e2d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
