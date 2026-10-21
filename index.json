@@ -1,0 +1,11 @@
+{
+  "org": "sanic-org",
+  "repo": "html5tagger",
+  "versions": [
+    {
+      "commit": "e3e0c044784d7409fcc823dde1bd83d531b4c288",
+      "tag": "v2.0.0",
+      "parsed_at": "2026-10-21T00:01:50.755421+00:00"
+    }
+  ]
+}
